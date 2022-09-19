@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(143, 5, 5);
+  text-align: center;
+  color: white;
+  font-size: 17px;
+  font-family:sans-serif, Arial;
+}
+
+
+.tr{ width:80% ;
+  height: 550px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.div2{ width: 600px;
+  height: auto;
+  justify-content:center;
+  align-items: center;
+   }
+
+ul{display:inline-block;
+  text-align:left;}
+
+  .em{display:inline-block;
+    text-align: left;
+  }
